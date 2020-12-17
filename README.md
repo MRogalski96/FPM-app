@@ -9,7 +9,7 @@ _FPM app_ is released in 2 versions:
 - MATLAB version - it contains a pack of MATLAB codes, which are used to open FPM app through MATLAB. These codes are open to be modified, to adjust _FPM app_ to a given set of preferences or to further improve it.
 - Executable version – it contains FPMAppInstaller_web.exe that installs FPMapp.exe along with all the necessary files and MATLAB Runtime that is required to run MATLAB standalone applications.
 
-# Documentation
+# Documentation (not released yet)
 To _FPM app_ is attached documentation that consists: 
 - Description of _FPM app_ working overflow and all _FPM app_ windows
 - Methods used for the processing of FPM data
