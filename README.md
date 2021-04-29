@@ -20,6 +20,9 @@ To _FPM app_ is attached documentation that consists:
 # Author information
 _FPM app_ was developed by **Mikolaj Rogalski** as a part of master's thesis at Faculty of Mechatronics, Warsaw University of Technology, Warsaw, Poland
 
+# How to cite the work
+Mikołaj Rogalski, Piotr Zdańkowski, Maciej Trusiak, FPM app: an open-source MATLAB application for simple and intuitive Fourier ptychographic reconstruction, Bioinformatics, 2021;, btab237, https://doi.org/10.1093/bioinformatics/btab237
+
 # Contact
 In case of any problem with _FPM app_ please contact the author:
 mikolaj.rogalski.dokt@pw.edu.pl
